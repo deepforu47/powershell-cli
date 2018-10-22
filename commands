@@ -1,0 +1,8 @@
+## Infinite While loop in Powershell
+while($true)
+{
+    "Starting Loop $b"
+    $b
+    $b++
+    "Now $b is $b"
+}
